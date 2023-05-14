@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "developer": ["your id"],
+    "mongoUrl": "your mongodb url",
+    "status": "online/idle/dnd",
+    "log": "channel id for error handler",
+    "color": "color name or hex code"
+}
